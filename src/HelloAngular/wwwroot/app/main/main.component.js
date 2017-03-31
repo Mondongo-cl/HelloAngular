@@ -19,3 +19,4 @@ MainComponent = __decorate([
     })
 ], MainComponent);
 exports.MainComponent = MainComponent;
+//# sourceMappingURL=main.component.js.map
